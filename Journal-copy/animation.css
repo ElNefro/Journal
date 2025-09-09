@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    justify-items: center;
+    align-items: center;
+}
+
+.prevew {
+    position: absolute;
+    top: calc(50%);
+    color: aliceblue;
+}

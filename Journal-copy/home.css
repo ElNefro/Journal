@@ -1,0 +1,106 @@
+body {
+    background-color: #686a6a;
+    
+}
+html {
+        font-family:monospace;
+}
+header {
+    display: flex;
+    background-color: #3b3e3e;
+    width: auto;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.score {
+    font-size: 20px;
+    display: flex;
+    background-color: #768181;
+    color: aliceblue;
+    height: 450px;
+    width: 450px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.shedule {
+    font-size: 20px;
+    display: flex;
+    background-color: #768181;
+    color: aliceblue;
+    height: 450px;
+    width: 550px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.home_work {
+    font-size: 20px;
+    display: flex;
+    background-color: #768181;
+    color: aliceblue;
+    height: 450px;
+    width: 550px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    background-color: #3b3e3e;
+    height: 500px;
+    border-radius: 10px;
+    margin: 15px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn {
+    display: inline-block;
+    background: #768181;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin: 0px 100px 0px 100px;
+    text-decoration: none;
+    transition: background 0.3s;
+
+}
+.menu_btn {
+    background-image: url("")
+}
+
+footer {
+    margin-top: 100px;
+    display: flex;
+    background-color: #3b3e3e;
+    width: auto;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.contributors {
+    position: absolute;
+    color: aliceblue;
+    font-size: 10px;
+    top: calc(75%);
+}
+.con_list {
+    font-size: 15px;
+    
+}
